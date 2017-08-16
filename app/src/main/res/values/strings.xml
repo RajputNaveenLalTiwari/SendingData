@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sending Data</string>
+    <string name="send_to">Share data to...</string>
+</resources>
